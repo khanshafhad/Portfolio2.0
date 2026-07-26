@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Cross-Platform Mobile App",
+    "description": "A React Native app built for iOS and Android with reusable UI components and native-like navigation.",
+    "tags": ["React Native", "Expo", "Mobile UI"],
+    "link": "#projects"
+  },
+  {
+    "title": "E-Commerce App Prototype",
+    "description": "A mobile shopping experience with product browsing, cart flow, and adaptive layouts across devices.",
+    "tags": ["React Native", "Redux", "Animations"],
+    "link": "#projects"
+  },
+  {
+    "title": "Performance-Focused Utility App",
+    "description": "A fast, lightweight app optimized for offline-first interactions and seamless touch gestures.",
+    "tags": ["React Native", "Native Modules", "UX"],
+    "link": "#projects"
+  }
+]
