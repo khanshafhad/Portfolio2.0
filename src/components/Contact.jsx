@@ -11,6 +11,11 @@ function Contact() {
           Email: <a href="mailto:shafhad_khan@yahoo.com">shafhad_khan@yahoo.com</a> /{' '}
           <a href="mailto:khanshafhad@gmail.com">khanshafhad@gmail.com</a>
         </p>
+        <p>
+          <a className="cta-button" href="/Shafhad_Khan_Resume_2026-07-05.pdf" download>
+            Download Resume
+          </a>
+        </p>
         <a className="cta-button" href="mailto:shafhad_khan@yahoo.com?subject=Hello%20Shafhad%20Khan">
           Say Hello
         </a>
