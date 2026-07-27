@@ -9,7 +9,8 @@ function App() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
 
-  const dataUrl = import.meta.env.VITE_PROJECTS_URL || '/projects.json'
+ //onst dataUrl = import.meta.env.VITE_PROJECTS_URL || '/projects.json'
+ const dataUrl = `${import.meta.env.BASE_URL}projects.json`;
 
   const fetchProjects = async () => {
     try {
