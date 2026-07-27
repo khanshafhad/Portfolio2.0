@@ -1,20 +1,59 @@
 [
   {
-    "title": "Cross-Platform Mobile App",
-    "description": "A React Native app built for iOS and Android with reusable UI components and native-like navigation.",
-    "tags": ["React Native", "Expo", "Mobile UI"],
-    "link": "#projects"
+    "title": "Interactive Learning Applications",
+    "role": "Curriculum Associate",
+    "description": "Designed and developed cross-platform React Native (Expo) applications to support curriculum delivery. Built interactive learning modules, lesson demonstrations, assessments, multimedia experiences, and educational prototypes to enhance student engagement and simplify complex concepts.",
+    "highlights": [
+      "Developed multiple cross-platform educational applications using React Native and Expo.",
+      "Built interactive learning modules, quizzes, and multimedia experiences.",
+      "Collaborated with curriculum designers to translate educational content into engaging mobile applications.",
+      "Focused on reusable components and responsive UI across Android and iOS."
+    ],
+    "tags": [
+      "React Native",
+      "Expo",
+      "TypeScript",
+      "EdTech",
+      "Mobile Learning"
+    ],
+    "organization": "WhiteHat Jr",
+    "projectType": "Employment",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "duration": "2023",
+    "link": ""
   },
   {
-    "title": "E-Commerce App Prototype",
-    "description": "A mobile shopping experience with product browsing, cart flow, and adaptive layouts across devices.",
-    "tags": ["React Native", "Redux", "Animations"],
-    "link": "#projects"
-  },
-  {
-    "title": "Performance-Focused Utility App",
-    "description": "A fast, lightweight app optimized for offline-first interactions and seamless touch gestures.",
-    "tags": ["React Native", "Native Modules", "UX"],
-    "link": "#projects"
+    "title": "SingleInterface Connect",
+    "role": "React Native Developer",
+    "description": "Built the mobile application from scratch using React Native, delivering a scalable cross-platform solution for enterprise retail management. Designed the application architecture, developed reusable UI components, integrated REST APIs, implemented authentication, push notifications, and Redux-based state management while collaborating with product, backend, and QA teams to deliver a production-ready application for Android and iOS.",
+    "highlights": [
+      "Built the application from scratch.",
+      "Designed the React Native project architecture.",
+      "Developed reusable and scalable UI components.",
+      "Integrated REST APIs and implemented authentication workflows.",
+      "Implemented push notifications and Redux state management.",
+      "Collaborated with product, backend, and QA teams throughout the development lifecycle.",
+      "Delivered a production-ready application for Android and iOS."
+    ],
+    "tags": [
+      "React Native",
+      "TypeScript",
+      "Redux",
+      "REST APIs",
+      "Firebase",
+      "React Navigation",
+      "Push Notifications"
+    ],
+    "organization": "SingleInterface",
+    "projectType": "Client Project",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "duration": "2024",
+    "link": "https://play.google.com/store/search?q=singleinterface&c=apps"
   }
 ]

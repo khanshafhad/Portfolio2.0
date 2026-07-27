@@ -189,6 +189,20 @@ a {
   margin: 0 0 10px;
 }
 
+.project-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.project-meta span {
+  font-size: 0.9rem;
+  color: #7fd2ff;
+}
+
 .project-card p {
   margin: 0 0 16px;
   opacity: 0.8;
