@@ -191,13 +191,31 @@ a {
 
 .project-meta {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 12px;
   justify-content: space-between;
   margin-bottom: 12px;
   flex-wrap: wrap;
 }
 
+.project-meta > div {
+  min-width: 0;
+}
+
+.project-subtitle {
+  margin: 6px 0 0;
+  opacity: 0.75;
+  font-size: 0.96rem;
+}
+
+.project-tags-right {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.project-tags-right span,
 .project-meta span {
   font-size: 0.9rem;
   color: #7fd2ff;
@@ -206,6 +224,41 @@ a {
 .project-card p {
   margin: 0 0 16px;
   opacity: 0.8;
+}
+
+.project-platforms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.project-platforms span {
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(50, 82, 131, 0.8);
+  font-size: 0.85rem;
+}
+
+.project-highlights {
+  margin-bottom: 16px;
+}
+
+.project-highlights strong {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.project-highlights ul {
+  margin: 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 8px;
+}
+
+.project-highlights li {
+  opacity: 0.85;
+  line-height: 1.5;
 }
 
 .tags {

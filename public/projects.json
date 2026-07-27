@@ -55,5 +55,111 @@
     ],
     "duration": "2024",
     "link": "https://play.google.com/store/search?q=singleinterface&c=apps"
-  }
+  },
+{
+  "title": "School Management Application",
+  "role": "Freelance React Native Developer",
+  "description": "Designed and developed a cross-platform school management application from scratch using React Native. Architected a scalable solution to streamline school operations by enabling seamless communication between parents, teachers, and administrators through messaging, notices, announcements, timetables, school events, and push notifications, delivering a responsive and intuitive experience across Android and iOS.",
+  "highlights": [
+    "Built the application from scratch.",
+    "Designed the project architecture and folder structure.",
+    "Developed reusable and scalable UI components.",
+    "Integrated REST APIs and implemented secure authentication.",
+    "Implemented role-based access for parents, teachers, and administrators.",
+    "Developed real-time messaging and parent-teacher communication features.",
+    "Built notices and announcements modules for school-wide communication.",
+    "Implemented timetable management and school events modules.",
+    "Integrated push notifications for important updates and reminders.",
+    "Optimized application performance and user experience.",
+    "Delivered a production-ready application for Android and iOS."
+  ],
+  "tags": [
+    "React Native",
+    "TypeScript",
+    "Redux",
+    "REST APIs",
+    "React Navigation",
+    "Firebase",
+    "Push Notifications",
+    "Real-time Messaging",
+    "Android",
+    "iOS",
+    "EdTech"
+  ],
+  "organization": "Confidential Educational Institution",
+  "projectType": "Freelance",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "duration": "2025",
+  "link": ""
+},
+{
+  "title": "Enterprise Digital Banking Application",
+  "role": "Senior React Native Developer",
+  "description": "Contributed to the development and enhancement of a production-grade digital banking application for a leading private bank. Developed secure, scalable, and high-performance features, integrated REST APIs, implemented reusable UI components, optimized application performance, and collaborated with product, backend, QA, and design teams to deliver a seamless cross-platform experience for Android and iOS.",
+  "highlights": [
+    "Developed production-ready banking features.",
+    "Integrated secure REST APIs and business workflows.",
+    "Implemented reusable and scalable React Native components.",
+    "Optimized application performance and stability.",
+    "Collaborated with cross-functional teams throughout the development lifecycle.",
+    "Maintained high code quality through testing and code reviews.",
+    "Delivered secure and responsive applications for Android and iOS."
+  ],
+  "tags": [
+    "React Native",
+    "TypeScript",
+    "Redux",
+    "REST APIs",
+    "React Navigation",
+    "Firebase",
+    "Android",
+    "iOS",
+    "FinTech"
+  ],
+  "organization": "Confidential Banking Client",
+  "projectType": "Enterprise Banking",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "duration": "2025 - Present",
+  "link": ""
+},
+{
+  "title": "Enterprise Digital Banking Application",
+  "role": "Senior React Native Developer",
+  "description": "Contributed to the development and enhancement of a large-scale digital banking application for a leading private bank. Implemented secure and scalable features, developed reusable React Native components, integrated REST APIs, leveraged Zustand for efficient state management, optimized application performance, and collaborated with cross-functional teams to deliver a seamless mobile banking experience across Android and iOS.",
+  "highlights": [
+    "Developed and enhanced production-ready banking features.",
+    "Built reusable and scalable React Native components.",
+    "Integrated secure REST APIs and banking workflows.",
+    "Implemented authentication and user experience improvements.",
+    "Utilized Zustand for lightweight and efficient state management.",
+    "Optimized application performance, responsiveness, and stability.",
+    "Collaborated with product, backend, QA, and design teams.",
+    "Delivered secure, high-quality releases for Android and iOS."
+  ],
+  "tags": [
+    "React Native",
+    "TypeScript",
+    "Zustand",
+    "REST APIs",
+    "React Navigation",
+    "Firebase",
+    "Android",
+    "iOS",
+    "FinTech"
+  ],
+  "organization": "Confidential Banking Client",
+  "projectType": "Enterprise Banking",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "duration": "2026 - Present",
+  "link": ""
+}
 ]
