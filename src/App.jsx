@@ -42,7 +42,7 @@ function App() {
           <a href="#projects">Projects</a>
           <a href="#contact">Contact</a>
         </nav>
-        <a className="cta-button" href="/Shafhad_Khan_Resume_2026-07-05.pdf" download>
+        <a className="cta-button" href="/Shafhad_Khan_Resume_2026-08-18.pdf" download>
           Download Resume
         </a>
       </header>
