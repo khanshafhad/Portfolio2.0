@@ -12,7 +12,7 @@ function Contact() {
           <a href="mailto:khanshafhad@gmail.com">khanshafhad@gmail.com</a>
         </p>
         <p>
-          <a className="cta-button" href="/Shafhad_Khan_Resume_2026-08-18.pdf" download>
+          <a className="cta-button" href={`${import.meta.env.BASE_URL}Shafhad_Khan_Resume_2026-08-18.pdf`} download>
             Download Resume
           </a>
         </p>
